@@ -1,12 +1,3 @@
-
-
-
-
-
-
-
-
-
 class Hunter{
 	constructor(x,y,ind){
 		this.index = ind;
